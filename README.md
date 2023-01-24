@@ -1,31 +1,16 @@
-# IOT Freelance Encoder
+# IOT Freelance Encoder Job
 ## A quick review of this freelance job to watch!
 
 [![Click to watch a quick tour trough the project](/img/capYT.png?raw=true)](https://youtu.be/Nf-jq3-kUl4)
 
 ## Job
 
-## 💻 Exercise
-The exercise consists of making a Library for Arduino that manages the ESP-01 WiFi module. For communication with it, the Arduino SoftwareSerial library must be used.
-The library should include the following functionalities.
-• Initialization of serial connection and verification that the module is connected  
-• Connect to a Wi-Fi network  
-• Check if the module was correctly connected to the WIFi network  
-• Disconnect from the WiFi network  
-• Establish a TCP connection as a client  
-• Send Data Through TCP  
-• Ping via TCP  
-• Close TCP connection  
-
-## 💫 Bonuses  
-• Design a circuit that shows the connections between the ESP-01 and an Arduino (any) and add the necessary components so that it can be powered by a 7.4v battery.
+## 💻 Main Job
+This job consisted in the assembly of the hardware provided by the client and some modifications to the existing code so it suits the client needs. I've also made some modifications to the initial hardware since an Arduino Uno was not a good fit for this enclosure. Finally I've addaded a simple on off switch, something that the client didn't thinked about. 
 
 ## Hardware used
-• ESP01  
-• ESP32  
-• LM2596  
-• 18650 (x2)  
+• Arduino Pro Mini  
+• 9v Battery
+• LCD Screen SSD1306 128 x 64
+• Rotary encoder
 
-## Final toughts
-
-A lot can be improved since we are only using a few at commands and encapsulating them all in one class. A few solid principles could be improved but I'm focusing on getting the main file as simple as possible and not having more than the required class.
