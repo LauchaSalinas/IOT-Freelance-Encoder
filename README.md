@@ -6,7 +6,7 @@
 ## Job
 
 ## 💻 Main Job
-This job consisted in the assembly of the hardware provided by the client and some modifications to the existing code so it suits the client needs. I've also made some modifications to the initial hardware since an Arduino Uno was not a good fit for this enclosure. Finally I've addaded a simple on off switch, something that the client didn't thinked about. 
+This job consisted in the assembly of the hardware provided by the client and some modifications to the existing code so it suits the client needs. I've also made some modifications to the initial hardware since an Arduino Uno was not a good fit for this enclosure. Finally I've added a simple on off switch, something that the client didn't think about at the beginning.
 
 ## Hardware used
 • Arduino Pro Mini  
